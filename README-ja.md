@@ -1,5 +1,7 @@
 # Xiaomi Hyper Connect - ダークモード対応
 
+[简体中文](README.md) | [繁體中文](README-zh-Hant.md) | [English](README-en.md) 
+
 このプロジェクトは、PC 版の「Xiaomi Hyper Connect」にダークモード対応を追加するものです。また、Windows のシステム フォント設定に追従することもできます。
 
 > 現在対応しているアプリのバージョンは 2.0.0.429 です。別のアプリ バージョンに置き換えようとしないでください。機能が正常に動作しなくなる可能性があります。

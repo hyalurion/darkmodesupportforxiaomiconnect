@@ -1,5 +1,7 @@
 # Xiaomi Hyper Connect - Dark Mode Support
 
+[简体中文](README.md) | [繁體中文](README-zh-Hant.md) | [日本語](README-ja.md)
+
 This project adds dark mode support for the PC version of Xiaomi Hyper Connect and also supports following the Windows system font settings.
 
 > The currently supported application version is 2.0.0.429. Do not attempt to replace it with a different app version, or the functionality may break.
