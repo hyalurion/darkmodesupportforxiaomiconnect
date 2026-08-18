@@ -4,12 +4,12 @@
 
 这是一个为 PC 版「小米互联服务」提供深色模式支持的项目。同时支持跟随Windows系统注册表字体设置。
 
-> 当前适配的应用版本为 2.0.0.429。请勿尝试替换至不同的应用版本，否则将导致功能异常。
+> 当前适配的应用版本为 2.0.0.438。请勿尝试替换至不同的应用版本，否则将导致功能异常。
 
 ## 启用方法
 
 1. 下载项目中的文件 [app.asar](app.asar)
-2. 将其替换到：`C:\Program Files\MI\HyperConnect\2.0.0.429\resources\app.asar`（Windows）
+2. 将其替换到：`C:\Program Files\MI\HyperConnect\2.0.0.438\resources\app.asar`（Windows）
 
 ## 说明
 

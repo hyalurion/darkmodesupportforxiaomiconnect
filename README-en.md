@@ -4,12 +4,12 @@
 
 This project adds dark mode support for the PC version of Xiaomi Hyper Connect and also supports following the Windows system font settings.
 
-> The currently supported application version is 2.0.0.429. Do not attempt to replace it with a different app version, or the functionality may break.
+> The currently supported application version is 2.0.0.438. Do not attempt to replace it with a different app version, or the functionality may break.
 
 ## Enable
 
 1. Download [app.asar](app.asar) from this project.
-2. Replace it at: `C:\Program Files\MI\HyperConnect\2.0.0.429\resources\app.asar` (Windows)
+2. Replace it at: `C:\Program Files\MI\HyperConnect\2.0.0.438\resources\app.asar` (Windows)
 
 ## Notes
 
